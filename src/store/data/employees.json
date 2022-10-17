@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Наталья",
+    "phone": "9254323534",
+    "_showDetails": false,
+    "staff": {}
+  },
+  {
+    "id": 2,
+    "name": "Софья",
+    "phone": "9254323534",
+    "_showDetails": false,
+    "staff": {}
+  },
+  {
+    "id": 3,
+    "name": "Александр",
+    "phone": "9254323534",
+    "_showDetails": false,
+    "staff": {}
+  },
+  {
+    "id": 4,
+    "name": "Евгений",
+    "phone": "9254323534",
+    "_showDetails": false,
+    "staff": {}
+  }
+]
+
